@@ -1,0 +1,16 @@
+{
+    "normal": {
+        "added": [
+            "__app_helloworld",
+            "module__helloworld_helloworld",
+            "hello_world_test_page"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}

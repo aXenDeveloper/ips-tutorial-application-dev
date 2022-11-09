@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="helloworld" version="10000">
+  <word key="__app_helloworld" js="0">Hello World</word>
+  <word key="module__helloworld_helloworld" js="0">My helloworld Module</word>
+  <word key="hello_world_test_page" js="0">Wow! My first page in IPS! Hi :) for English</word>
+ </app>
+</language>
