@@ -1,1 +1,9 @@
-[]
+{
+    "front": {
+        "helloworld": {
+            "default_controller": "",
+            "protected": false,
+            "default": null
+        }
+    }
+}
