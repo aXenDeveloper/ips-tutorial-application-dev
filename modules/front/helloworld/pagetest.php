@@ -22,7 +22,7 @@ class _pagetest extends \IPS\Dispatcher\Controller
 	 */
 	public function execute()
 	{
-
+		\IPS\Output::i()->cssFiles = array_merge(\IPS\Output::i()->cssFiles, \IPS\Theme::i()->css('pagetest.css', 'helloworld', 'front'));
 		parent::execute();
 	}
 

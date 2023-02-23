@@ -1,0 +1,13 @@
+{
+  "topLevel": "helloworld",
+  "pages": {
+    "helloworld": {
+      "friendly": "",
+      "real": "app=helloworld&module=helloworld&controller=pagetest"
+    },
+    "test": {
+      "friendly": "test",
+      "real": "app=helloworld&module=helloworld&controller=test"
+    }
+  }
+}
