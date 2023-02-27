@@ -23,6 +23,7 @@ class _pagetest extends \IPS\Dispatcher\Controller
 	public function execute()
 	{
 		\IPS\Output::i()->cssFiles = array_merge(\IPS\Output::i()->cssFiles, \IPS\Theme::i()->css('pagetest.css', 'helloworld', 'front'));
+		\IPS\Output::i()->jsFiles = array_merge(\IPS\Output::i()->jsFiles, \IPS\Output::i()->js('front_pagetest.js', 'helloworld', 'front'));
 		parent::execute();
 	}
 
