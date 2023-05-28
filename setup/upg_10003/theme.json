@@ -1,0 +1,23 @@
+{
+    "html": {
+        "added": [],
+        "edited": [
+            "front\/pagetest\/index"
+        ],
+        "removed": []
+    },
+    "css": {
+        "added": [
+            "front\/pagetest.css"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "resources": {
+        "added": [
+            "front\/logo_dark.png"
+        ],
+        "edited": [],
+        "removed": []
+    }
+}

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build>
- <module key="front/helloworld"><![CDATA[{"default_controller":"","protected":false,"default":null}]]></module>
+ <module key="front/helloworld"><![CDATA[{"default_controller":"","protected":0,"default":0}]]></module>
+ <module key="admin/settings"><![CDATA[{"default_controller":"","protected":false,"default":null}]]></module>
+ <setting key="aXenHelloWorld_settings_title"><![CDATA[{"key":"aXenHelloWorld_settings_title","default":"This is default value for title <3"}]]></setting>
 </build>

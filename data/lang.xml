@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <app key="helloworld" version="10000">
+ <app key="helloworld" version="10003">
   <word key="__app_helloworld" js="0">Hello World</word>
   <word key="module__helloworld_helloworld" js="0">My helloworld Module</word>
   <word key="hello_world_test_page" js="0">Wow! My first page in IPS! Hi :) for English</word>
+  <word key="frontnavigation_helloworld" js="0">Hello World</word>
+  <word key="menutab__helloworld" js="0">Hello World</word>
+  <word key="menu__helloworld_settings" js="0">Settings</word>
+  <word key="menu__helloworld_settings_settings" js="0">Settings</word>
+  <word key="menutab__helloworld_icon" js="0">globe</word>
+  <word key="aXenHelloWorld_settings_title" js="0">Title</word>
  </app>
 </language>

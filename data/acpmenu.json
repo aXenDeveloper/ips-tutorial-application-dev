@@ -1,1 +1,11 @@
-[]
+{
+    "settings": {
+        "settings": {
+            "tab": "helloworld",
+            "controller": "settings",
+            "do": "",
+            "restriction": "settings_manage",
+            "subcontrollers": ""
+        }
+    }
+}

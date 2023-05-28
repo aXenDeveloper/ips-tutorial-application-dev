@@ -1,7 +1,11 @@
 <ips:template parameters="" />
 <h1 class="ipsType_pageTitle ipsFlex-flex:11 ipsType_break ipsMargin_bottom title">
-  {lang="hello_world_test_page"}
+  {lang="hello_world_test_page"} - {setting="aXenHelloWorld_settings_title"}
 </h1>
+
+{{if settings.aXenHelloWorld_settings_title}}
+<div>Test</div>
+{{endif}}
 
 <div class='ipsBox ipsPadding'>
   <div class='ipsMessage ipsMessage_error'>

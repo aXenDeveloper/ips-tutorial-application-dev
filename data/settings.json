@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "key": "aXenHelloWorld_settings_title",
+        "default": "This is default value for title <3"
+    }
+]

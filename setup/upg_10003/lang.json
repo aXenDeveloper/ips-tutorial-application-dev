@@ -1,0 +1,19 @@
+{
+    "normal": {
+        "added": [
+            "frontnavigation_helloworld",
+            "menutab__helloworld",
+            "menu__helloworld_settings",
+            "menu__helloworld_settings_settings",
+            "menutab__helloworld_icon",
+            "aXenHelloWorld_settings_title"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}
